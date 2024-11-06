@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.util.Random;
 import java.util.Scanner;
 
-public class LeetCode {
+public class MemoryEfficientUniqueStringGenerator {
     public static String randomString(int length){
         StringBuilder sb = new StringBuilder();
         Random random = new Random();
